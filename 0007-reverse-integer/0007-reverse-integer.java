@@ -1,11 +1,10 @@
 class Solution {
     public int reverse(int x) {
         long rev = 0;
-        int temp = x;
-        while(temp!=0){
-          int n = temp%10  ;
+        while(x!=0){
+          int n = x%10  ;
           rev = (rev*10) + n ;
-          temp =temp / 10;
+          x = x / 10;
            
          
         }
