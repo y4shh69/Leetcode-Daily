@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/y4shh69/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/y4shh69/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/y4shh69/Leetcode-Daily/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/y4shh69/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/y4shh69/Leetcode-Daily/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
