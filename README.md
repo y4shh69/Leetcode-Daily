@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/y4shh69/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/y4shh69/Leetcode-Daily/tree/master/0503-next-greater-element-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/y4shh69/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
