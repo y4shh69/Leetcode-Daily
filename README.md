@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/y4shh69/Leetcode-Daily/tree/master/0503-next-greater-element-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/y4shh69/Leetcode-Daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/y4shh69/Leetcode-Daily/tree/master/0009-palindrome-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/y4shh69/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/y4shh69/Leetcode-Daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
